@@ -24,6 +24,24 @@
       </file>
     </leaf>
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+>>>>>>> Stashed changes
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1280" />
     <option name="height" value="800" />
@@ -112,12 +130,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558444573927</updated>
+<<<<<<< Updated upstream
       <workItem from="1558444575313" duration="995000" />
+=======
+      <workItem from="1558444575313" duration="2281000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="995000" />
+=======
+    <option name="totallyTimeSpent" value="2281000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
