@@ -1,2 +1,2 @@
 # marketplace
-a marketplace template develop with django 
+a marketplace template developed with django 
